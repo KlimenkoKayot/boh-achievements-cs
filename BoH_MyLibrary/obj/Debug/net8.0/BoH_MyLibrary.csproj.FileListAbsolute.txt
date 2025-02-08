@@ -1,0 +1,11 @@
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\bin\Debug\net8.0\BoH_MyLibrary.deps.json
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\bin\Debug\net8.0\BoH_MyLibrary.dll
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\bin\Debug\net8.0\BoH_MyLibrary.pdb
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\obj\Debug\net8.0\BoH_MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\obj\Debug\net8.0\BoH_MyLibrary.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\obj\Debug\net8.0\BoH_MyLibrary.AssemblyInfo.cs
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\obj\Debug\net8.0\BoH_MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\obj\Debug\net8.0\BoH_MyLibrary.dll
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\obj\Debug\net8.0\refint\BoH_MyLibrary.dll
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\obj\Debug\net8.0\BoH_MyLibrary.pdb
+C:\Users\georg\source\repos\BoH\BoH_MyLibrary\obj\Debug\net8.0\ref\BoH_MyLibrary.dll
