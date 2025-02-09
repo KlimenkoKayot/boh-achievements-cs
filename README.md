@@ -77,8 +77,7 @@
 ## Зависимости
 
 - [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/6.0) или выше.
-- [Newtonsoft.Json](https://www.newtonsoft.com/json) для работы с JSON-файлами (устанавливается через NuGet).
-
+  
 ## Как добавить зависимости
 
 Если вы хотите добавить зависимости в проект, используйте команду:
